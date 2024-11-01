@@ -4,6 +4,7 @@ tags: Debri
 author: nanbuwks
 slide: false
 ---
+# アブストラクション
 
 # 想定
 
